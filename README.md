@@ -12,7 +12,7 @@
 - 🌱 Learning **AWS | Advanced React | AI Integration**
 - 👯 Open to collaborate on **open-source & web apps**
 - 💬 Ask me about **React, JavaScript, Python, Tailwind CSS, Git**
-- 📫 Reach me at: **[rohithinde@example.com](mailto:rohithinde@example.com)**
+- 📫 Reach me at: **[rohithinde@example.com](mailto:shinderohit1421@gmail.com)**
 - ⚡ Fun fact: *I enjoy editing videos 🎬 and creating interactive UIs*
 
 ---
