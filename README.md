@@ -59,7 +59,6 @@
   <img src="https://raw.githubusercontent.com/RohitShinde1412/RohitShinde1412/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-
 ---
 
 ## 🔗 Connect With Me
