@@ -1,18 +1,74 @@
 <h1 align="center">Hi 👋, I'm Rohit Shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Web Developer | React | JavaScript | Python | Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinderohit1421&label=Profile%20views&color=0e75b6&style=flat" alt="shinderohit1421" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinderohit1421" alt="shinderohit1421" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit shinde" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohitShinde1412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinderohit1421&show_icons=true&locale=en&layout=compact" alt="shinderohit1421" /></p>
+## 🌟 About Me
+- 🔭 Currently working on **AI-powered apps & responsive web projects**
+- 🌱 Learning **AWS | Advanced React | AI Integration**
+- 👯 Open to collaborate on **open-source & web apps**
+- 💬 Ask me about **React, JavaScript, Python, Tailwind CSS, Git**
+- 📫 Reach me at: **[rohithinde@example.com](mailto:rohithinde@example.com)**
+- ⚡ Fun fact: *I enjoy editing videos 🎬 and creating interactive UIs*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinderohit1421&show_icons=true&locale=en" alt="shinderohit1421" /></p>
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,figma,vscode,aws" />
+</p>
+
+---
+
+## 📌 Featured Projects
+🔹 [**ICICI Bank Homepage Clone**](https://github.com/RohitShinde1412/icici-bank-clone) – Responsive banking homepage using HTML & CSS  
+🔹 [**Posture Recognition**](https://github.com/RohitShinde1412/posture-recognition) – OpenCV + Neural Networks API for posture detection  
+🔹 [**RecipeGenius**](https://github.com/RohitShinde1412/recipe-genius) – React app for recipes with API integration  
+🔹 [**Currency Converter**](https://github.com/RohitShinde1412/currency-converter) – Simple React app with live exchange rates  
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitShinde1412&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitShinde1412&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitShinde1412&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🔥 Streaks & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitShinde1412&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohitShinde1412/RohitShinde1412/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-shinde-aa4234342" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/RohitShinde1412" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:rohithinde@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐️ From [RohitShinde1412](https://github.com/RohitShinde1412)
